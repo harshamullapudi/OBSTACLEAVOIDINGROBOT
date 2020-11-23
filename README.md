@@ -1,5 +1,5 @@
 # OBSTACLEAVOIDINGROBOT
-Sensor Based Obstacle Avoiding Robot Car for cleaning purpose using Arduino-UNO or Bluetooth.
+Sensor Based Obstacle Avoiding Robot Car for cleaning purpose using Arduino-UNO/Microcontroller and Bluetooth/Sensor.
 
 #ABSTRACT
 The purpose of this project is to develop a mobile robot car with an obstacle avoidance capability. The mobile robot will be built with an on-board sensor to get information about the surding environment. The mobile robot is a four wheeled robot platform. The robot has an ultrasonic sensor which is mounted in front of it to scan the front environment. The ultrasonic sensor will trigger a signal to the main controller, which is a Arduino UNO and it is controlled by blue-tooth module HC-05 7
